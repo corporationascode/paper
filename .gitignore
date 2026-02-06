@@ -1,0 +1,7 @@
+*.docx
+.DS_Store
+Thumbs.db
+node_modules/
+docs/_site/
+docs/.jekyll-cache/
+Gemfile.lock

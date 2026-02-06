@@ -1,0 +1,26 @@
+title: Corporation as Code
+description: Rethinking Corporate Records for the Digital Age
+remote_theme: just-the-docs/just-the-docs
+
+url: https://corporationascode.github.io
+baseurl: /paper
+
+aux_links:
+  "GitHub":
+    - "https://github.com/corporationascode/paper"
+
+heading_anchors: true
+
+nav_enabled: true
+nav_sort: order
+
+color_scheme: dark
+
+footer_content: "&copy; 2026 Xavier Beauchamp-Tremblay & Fr&eacute;d&eacute;ric Boivin Couillard. All rights reserved."
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+plugins:
+  - jekyll-remote-theme
